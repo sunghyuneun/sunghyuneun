@@ -2,4 +2,4 @@ student @ university of british columbia
 
 software @ ubc thunderbots
 
-researcher @ prime lab
+undergrad research assistant @ prime lab
